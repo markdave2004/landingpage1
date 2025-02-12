@@ -1,0 +1,24 @@
+#p{
+    background-image: url('images/imaGE45.jpg') ;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+#p{
+    text-align: center;
+    font-size: 40px;
+}
+a{
+    color: whitesmoke;
+    font-size: 30px;
+}
+.f{
+    position: absolute;
+    padding-bottom: 0px;
+    bottom: 100px;
+    left: 50px;
+}
+body{
+    background-color: gray;
+}

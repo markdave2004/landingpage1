@@ -1,0 +1,37 @@
+			[Uploading GitHub Files]
+
+			git config --global user.email "iveeej"
+
+			git status
+
+			git add .
+
+			git commit -m "Landing PAGE"
+
+			git push -u origin main
+			
+			[Log In your GitHub Account]
+
+			git status
+
+			
+			-----------------------------------------------------------------------
+
+                  	[Updating GitHub Files]
+
+			git status
+
+            git add .
+
+			git commit -m "Landing PAGE"
+
+			git push -u origin main
+
+			git status
+
+
+			-----------------------------------------------------------------------
+			
+			git clone [code]
+
+			[Check Fgile Path]
